@@ -1,1 +1,1 @@
-# riemann-hypothesis-pape
+# riemann-hypothesis-paper
